@@ -1,0 +1,58 @@
+E:\work\Courses\yr2017\SOFT562\assessment\SOFT562CourseworkOption1\Option1\bin\Debug\Option1.exe.config
+E:\work\Courses\yr2017\SOFT562\assessment\SOFT562CourseworkOption1\Option1\bin\Debug\Option1.exe
+E:\work\Courses\yr2017\SOFT562\assessment\SOFT562CourseworkOption1\Option1\bin\Debug\Option1.pdb
+E:\work\Courses\yr2017\SOFT562\assessment\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.csprojResolveAssemblyReference.cache
+E:\work\Courses\yr2017\SOFT562\assessment\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.Properties.Resources.resources
+E:\work\Courses\yr2017\SOFT562\assessment\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.StatisticsForm.resources
+E:\work\Courses\yr2017\SOFT562\assessment\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.csproj.GenerateResource.Cache
+E:\work\Courses\yr2017\SOFT562\assessment\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.exe
+E:\work\Courses\yr2017\SOFT562\assessment\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.pdb
+C:\Drive E\Courses\yr2017\SOFT562\assessment\assessment\SOFT562CourseworkOption1\Option1\bin\Debug\Option1.exe.config
+C:\Drive E\Courses\yr2017\SOFT562\assessment\assessment\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.exe
+C:\Drive E\Courses\yr2017\SOFT562\assessment\assessment\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.pdb
+C:\Drive E\Courses\yr2017\SOFT562\assessment\assessment\SOFT562CourseworkOption1\Option1\bin\Debug\Option1.exe
+C:\Drive E\Courses\yr2017\SOFT562\assessment\assessment\SOFT562CourseworkOption1\Option1\bin\Debug\Option1.pdb
+C:\Drive E\Courses\yr2017\SOFT562\assessment\assessment\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.csprojResolveAssemblyReference.cache
+C:\Drive E\Courses\yr2017\SOFT562\assessment\assessment\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.Properties.Resources.resources
+C:\Drive E\Courses\yr2017\SOFT562\assessment\assessment\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.StatisticsForm.resources
+C:\Drive E\Courses\yr2017\SOFT562\assessment\assessment\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.csproj.GenerateResource.Cache
+C:\Users\Charis\Desktop\Softward Coursework\SOFT562CourseworkOptionFinal\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.csprojResolveAssemblyReference.cache
+C:\Users\Charis\Desktop\Softward Coursework\SOFT562CourseworkOptionFinal\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.Properties.Resources.resources
+C:\Users\Charis\Desktop\Softward Coursework\SOFT562CourseworkOptionFinal\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.csproj.GenerateResource.Cache
+C:\Users\Charis\Desktop\Softward Coursework\SOFT562CourseworkOptionFinal\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.csproj.CoreCompileInputs.cache
+C:\Users\Charis\Desktop\Softward Coursework\SOFT562CourseworkOptionFinal\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.exe
+C:\Users\Charis\Desktop\Softward Coursework\SOFT562CourseworkOptionFinal\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.pdb
+C:\Users\Charis\Desktop\Softward Coursework\SOFT562CourseworkOptionFinal\SOFT562CourseworkOption1\Option1\bin\Debug\Option1.exe.config
+C:\Users\Charis\Desktop\Softward Coursework\SOFT562CourseworkOptionFinal\SOFT562CourseworkOption1\Option1\bin\Debug\Option1.exe
+C:\Users\Charis\Desktop\Softward Coursework\SOFT562CourseworkOptionFinal\SOFT562CourseworkOption1\Option1\bin\Debug\Option1.pdb
+C:\Users\Charis\Desktop\Softward Coursework\SOFT562CourseworkOptionFinal\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.RegressionTypeLabel.resources
+C:\Users\Charis\Desktop\Softward Coursework\SOFT562CourseworkOption1\SOFT562CourseworkOption1\Option1\bin\Debug\Option1.exe.config
+C:\Users\Charis\Desktop\Softward Coursework\SOFT562CourseworkOption1\SOFT562CourseworkOption1\Option1\bin\Debug\Option1.exe
+C:\Users\Charis\Desktop\Softward Coursework\SOFT562CourseworkOption1\SOFT562CourseworkOption1\Option1\bin\Debug\Option1.pdb
+C:\Users\Charis\Desktop\Softward Coursework\SOFT562CourseworkOption1\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.csprojResolveAssemblyReference.cache
+C:\Users\Charis\Desktop\Softward Coursework\SOFT562CourseworkOption1\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.Properties.Resources.resources
+C:\Users\Charis\Desktop\Softward Coursework\SOFT562CourseworkOption1\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.RegressionTypeLabel.resources
+C:\Users\Charis\Desktop\Softward Coursework\SOFT562CourseworkOption1\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.csproj.GenerateResource.Cache
+C:\Users\Charis\Desktop\Softward Coursework\SOFT562CourseworkOption1\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.csproj.CoreCompileInputs.cache
+C:\Users\Charis\Desktop\Softward Coursework\SOFT562CourseworkOption1\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.exe
+C:\Users\Charis\Desktop\Softward Coursework\SOFT562CourseworkOption1\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.pdb
+C:\Users\Charis\Desktop\To Submint\SOFT562SoftwardCourseworkOption1\SOFT562CourseworkOption1\Option1\bin\Debug\Option1.exe.config
+C:\Users\Charis\Desktop\To Submint\SOFT562SoftwardCourseworkOption1\SOFT562CourseworkOption1\Option1\bin\Debug\Option1.exe
+C:\Users\Charis\Desktop\To Submint\SOFT562SoftwardCourseworkOption1\SOFT562CourseworkOption1\Option1\bin\Debug\Option1.pdb
+C:\Users\Charis\Desktop\To Submint\SOFT562SoftwardCourseworkOption1\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.csprojResolveAssemblyReference.cache
+C:\Users\Charis\Desktop\To Submint\SOFT562SoftwardCourseworkOption1\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.Properties.Resources.resources
+C:\Users\Charis\Desktop\To Submint\SOFT562SoftwardCourseworkOption1\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.RegressionTypeLabel.resources
+C:\Users\Charis\Desktop\To Submint\SOFT562SoftwardCourseworkOption1\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.csproj.GenerateResource.Cache
+C:\Users\Charis\Desktop\To Submint\SOFT562SoftwardCourseworkOption1\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.csproj.CoreCompileInputs.cache
+C:\Users\Charis\Desktop\To Submint\SOFT562SoftwardCourseworkOption1\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.exe
+C:\Users\Charis\Desktop\To Submint\SOFT562SoftwardCourseworkOption1\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.pdb
+C:\Users\Charis\Documents\GitHub\SoftwareDevelopment_Csharp\SOFT562CourseworkOption1\Option1\bin\Debug\Option1.exe.config
+C:\Users\Charis\Documents\GitHub\SoftwareDevelopment_Csharp\SOFT562CourseworkOption1\Option1\bin\Debug\Option1.exe
+C:\Users\Charis\Documents\GitHub\SoftwareDevelopment_Csharp\SOFT562CourseworkOption1\Option1\bin\Debug\Option1.pdb
+C:\Users\Charis\Documents\GitHub\SoftwareDevelopment_Csharp\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.csprojResolveAssemblyReference.cache
+C:\Users\Charis\Documents\GitHub\SoftwareDevelopment_Csharp\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.Properties.Resources.resources
+C:\Users\Charis\Documents\GitHub\SoftwareDevelopment_Csharp\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.RegressionTypeLabel.resources
+C:\Users\Charis\Documents\GitHub\SoftwareDevelopment_Csharp\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.csproj.GenerateResource.cache
+C:\Users\Charis\Documents\GitHub\SoftwareDevelopment_Csharp\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.csproj.CoreCompileInputs.cache
+C:\Users\Charis\Documents\GitHub\SoftwareDevelopment_Csharp\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.exe
+C:\Users\Charis\Documents\GitHub\SoftwareDevelopment_Csharp\SOFT562CourseworkOption1\Option1\obj\Debug\Option1.pdb
